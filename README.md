@@ -15,3 +15,7 @@ conda create -n botgpt python=3.7 -y
 ```bash
 conda activate botgpt
 ```
+
+```bash
+pip install -r requirements.txt
+```
